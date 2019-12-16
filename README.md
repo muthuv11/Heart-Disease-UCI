@@ -1,5 +1,16 @@
 # Heart Disease Prediction (Python)
 
+This is a POC for the actual project "Patient Alert System for Heart Disease" -from mutiple EHR database, for the registry particiapating in heart diseases.
+1. Data Extraction
+2. Data cleaning and data imputation.
+3. EDA
+4. Visualization
+5. Machinelearning algorithm
+6. Benchmark performance
+7. Artifical Neural network training
+8. Optimation
+9. Evaluation
+
 ### Problem Definition
 
 This project aims to developed and deployed a to predict certain cardiovascular events or find any clear indications of heart disease. It answers the question of Identifying the attributes which explains the prediction.
